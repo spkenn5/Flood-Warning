@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Awas Banjir!</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_report">Report</string>
+    <string name="menu_exit">Exit</string>
+    <string name="api_key">AIzaSyBqegzeO7XM6AHErEXeAW9NWC6-LMpLoPg</string>
+
+</resources>
